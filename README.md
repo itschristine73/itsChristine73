@@ -2,7 +2,7 @@
 
 I'm a passionate developer exploring the world of full-stack development, open-source collaboration, and beautiful user experiences.
 
-- 💻 Currently building: [https://github.com/itschristine73/LibraryWebApp]
+- 💻 Currently building: [LibraryWebApp](https://github.com/itschristine73/LibraryWebApp)
 - 🎯 Goals: Writing clean, efficient code and continuously learning
 - 🌱 Learning: React, Node.js, MYSQL
 
@@ -18,4 +18,4 @@ I'm a passionate developer exploring the world of full-stack development, open-s
 
 ## 📫 Connect with Me
 
-- Portfolio: [https://snehabiswakarma-72050.web.app/]
+- Portfolio: [sneha's Porfolio](https://snehabiswakarma-72050.web.app/)
